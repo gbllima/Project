@@ -12,8 +12,8 @@
             <label for="data_nascimento">Data de Nascimento:</label>
             <input type="date" id="data_nascimento" name="data_nascimento" class="form-control" required>
         </div>
+        <br>
         <button type="submit" class="btn btn-primary">Descobrir Meu Signo</button>
     </form>
 </div>
 
-<?php include('layouts/footer.php'); ?>
